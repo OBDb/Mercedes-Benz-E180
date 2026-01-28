@@ -1,0 +1,20 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class"
+
+generations:
+  - name: "W212 Generation"
+    start_year: 2009
+    end_year: 2016
+    description: "Fourth generation E-Class platform. The E180 was a market-specific trim sold in Turkey, Greece, and Tunisia featuring a 1.6L turbocharged petrol engine (M270 derivative) producing 156 HP and 250 NM. This generation featured significant styling updates, improved fuel economy, and advanced safety features including driver drowsiness detection, lane departure warning, and traffic sign recognition."
+    platform: "W212"
+    body_styles:
+      - sedan
+    engines:
+      - "1.6L M270 Turbocharged I4 (156 HP, 250 NM)"
+    transmissions:
+      - "6-speed manual"
+      - "7G-TRONIC Plus automatic"
+    markets:
+      - Turkey
+      - Greece
+      - Tunisia
